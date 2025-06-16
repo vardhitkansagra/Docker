@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-MAINTAINER harsh@amarinfotech.com
+MAINTAINER vardhitpatel03@gmail.com
  
 ENV DEBIAN_FRONTEND=noninteractive
  
